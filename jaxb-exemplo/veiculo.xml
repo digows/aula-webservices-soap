@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veiculo chassis="3242341">
+    <modelo>Modelo</modelo>
+    <marca>Marca</marca>
+    <rodas>
+        <rodas>
+            <aro>16</aro>
+            <marca>Pirelli</marca>
+        </rodas>
+    </rodas>
+    <proprietarios>
+        <proprietarios>
+            <nome>Jorge Henrique Santos</nome>
+            <telefones>2313131-132312 99123810-123123</telefones>
+        </proprietarios>
+    </proprietarios>
+</veiculo>
