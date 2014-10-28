@@ -2,7 +2,7 @@ package br.edu.cesufoz.service;
 
 import javax.jws.WebService;
 
-@WebService(serviceName="OlaMundoService", name="CesufozOlaMundoService")
+@WebService(serviceName="OlaMundoService")
 public class OlaMundoService {
 	
 	public String showMessage( String nome ) {
